@@ -5,9 +5,9 @@ from deepface import DeepFace
 from datetime import datetime
 
 # Configuration
-YOUR_EMAIL = "suraboinavenkatakoteswarao@gmail.com"
-APP_PASSWORD = "xlmyvpewpdigdmhf"
-RECEIVER_EMAIL = "kotisuraboina@gmail.com"
+YOUR_EMAIL = "***********@gmail.com"
+APP_PASSWORD = "*********digdmhf"
+RECEIVER_EMAIL = "*****boina@gmail.com"
 KNOWN_FOLDER = "known_faces"
 CAPTURED_IMAGE = "captured.jpg"
 
